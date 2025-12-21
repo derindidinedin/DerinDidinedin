@@ -1,6 +1,20 @@
-Hi, I’m Derin.
+> MSc Data Science @ King’s College London  
 
-MSc Data Science student.  
-I work on time-series forecasting and multimodal data.
+My research interests include time-series forecasting tasks, multimodal data, and foundation models.
 
-**Things I use:** Python, SQL, R
+How to reach me: LinkedIn or derin.didinedin@gmail.com
+
+
+
+> MSc Data Science @ King’s College London  
+
+---
+
+**Research interests**  
+time-series forecasting tasks · multimodal data · foundation models  
+
+---
+
+**How to reach me**  
+LinkedIn  
+derin.didinedin@gmail.com
