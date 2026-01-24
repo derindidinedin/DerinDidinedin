@@ -3,3 +3,6 @@
 My research interests include time-series forecasting tasks, multimodal data, and foundation models.
 
 Feel free to reach out on LinkedIn or derin.didinedin@gmail.com
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derindidinedin&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derindidinedin&show_icons=true)
