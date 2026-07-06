@@ -1,56 +1,42 @@
 <div align="center">
 
-![between silence and syntax](images/banner.png)
+<img src="images/dd_monogram_shared_spine.png" width="160" alt="dd" />
 
 </div>
 
 ## ![](images/butterfly.svg) about me
 
-![](images/brackets.svg) msc data science @ king's — time series & sequential decision-making <br>
-![](images/column.svg) ucl basc arts & sciences alum — where the history habit and the data habit learned to share a desk <br>
-![](images/amphora.svg) off-screen: byzantine & roman material culture, ancient jewellery, ceramics
+![](images/tessera.svg) msc data science @ king's <br>
+![](images/column.svg) basc arts & sciences @ ucl <br>
+![](images/wave.svg) research interests: time series forecasting & reinforcement learning <br>
+![](images/amphora.svg) off-screen: material culture, ancient jewellery, ceramics
 
 ## ![](images/brackets.svg) toolkit
 
-![](images/tessera.svg) python · pandas · numpy · scikit-learn <br>
-![](images/tessera.svg) pytorch · hugging face <br>
-![](images/tessera.svg) time series forecasting · reinforcement learning <br>
-![](images/tessera.svg) sql · git
+![](images/shell.svg) python · R · sql <br>
+![](images/vine.svg) pytorch · hugging face · scikit-learn
 
-## ![](images/tessera.svg) building
+## ![](images/quatrefoil.svg) building
 
 | name | description |
 | --- | --- |
-| [`derindidinedin.com`](https://derindidinedin.com) | generative roman mosaic — a rule-based compositional grammar doing procedural generation over a constraint system, the way ancient workshops actually worked |
-| [`dd-logo-ga`](https://github.com/derindidinedin/dd-logo-ga) | a genetic algorithm searching the space of calligraphic dd monograms — fitness-driven optimisation over glyph parameters |
+| [`argue-to-cook`](https://github.com/derindidinedin/msc-overcooked) | msc thesis on multi-agent reinforcement learning. investigates whether a value based argumentation framework with state adaptive rules improves PPO coordination between two agents in the Overcooked-AI cooperative environment |
+| [`tsfm-market-efficiency`](https://github.com/derindidinedin/btc-tsfm) | a walk forward benchmarking study of a time series foundation model (Chronos-2) against XGBoost and ARIMA-GARCH on forecasting digital asset log returns. investigates whether a pre-trained TSFM beats traditional and ML baselines |
+| [`derindidinedin.com`](https://derindidinedin.com) | personal website including a generative roman mosaic, formed through a rule based compositional grammar doing procedural generation over a constraint system, the way ancient workshops worked |
 
-<!-- add data-science coursework / projects here as they land — e.g. a time-series forecasting repo, an RL agent, a notebook write-up -->
+<!-- GITHUB STATS — commented out for now; uncomment this whole block to re-enable. self-hosted instance + private counts are already wired up, so it will just work.
 
-<!-- ▼ GITHUB STATS — preview block. to hide it, delete from this marker down to the ▲ marker (nothing else depends on it). -->
-## ![](images/column.svg) github
+## ![](images/star.svg) github
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=derindidinedin&show_icons=true&hide_border=true&bg_color=DDD5BE&title_color=A84030&icon_color=B8880A&text_color=1E2F56)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=derindidinedin&layout=compact&hide_border=true&bg_color=DDD5BE&title_color=A84030&text_color=1E2F56)
+![](https://github-readme-stats-derindidinedins-projects.vercel.app/api?username=derindidinedin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=DDD5BE&title_color=A84030&icon_color=B8880A&text_color=1E2F56)
+![](https://github-readme-stats-derindidinedins-projects.vercel.app/api/top-langs/?username=derindidinedin&layout=compact&hide_border=true&bg_color=DDD5BE&title_color=A84030&text_color=1E2F56)
 
 </div>
-<!-- ▲ GITHUB STATS end -->
 
-## ![](images/scroll.svg) writing
-
-essays on ancient history, objects and what they carry, and things noticed in data — sometimes long and carefully argued, sometimes a paragraph that arrived complete. both are legitimate.
-
-→ [derindidinedin.com/essays](https://derindidinedin.com/essays)
+-->
 
 ## ![](images/laurel.svg) find me
 
-![](images/fish.svg) website: [`derindidinedin.com`](https://derindidinedin.com)
-
-<br>
-
-<div align="center">
-
-*precision as art · emotion as structure*
-
-</div>
+![](images/fish.svg) website: [`derindidinedin.com`](https://derindidinedin.com) _(coming soon)_
