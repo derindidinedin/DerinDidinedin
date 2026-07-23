@@ -1,3 +1,19 @@
+<!-- credits to @cocohernandez for the inspo! 
+
+.
+                  .       |         .    .
+            .  *         -*-          *
+                 \        |         /   .
+.    .            .      /^\     .              .    .
+   *    |\   /\    /\  / / \ \  /\    /\   /|    *
+ .   .  |  \ \/ /\ \ / /     \ \ / /\ \/ /  | .     .
+         \ | _ _\/_ _ \_\_ _ /_/_ _\/_ _ \_/
+           \  *  *  *   \ \/ /  *  *  *  /
+            ` ~ ~ ~ ~ ~  ~\/~ ~ ~ ~ ~ ~ '
+
+-->
+
+
 <div align="center">
 
 <img src="images/dd_monogram_shared_spine.png" width="210" alt="dd" />
@@ -24,8 +40,7 @@
 | [`tsfm-benchmark`](https://github.com/derindidinedin/btc-tsfm) | a walk forward benchmarking study of a time series foundation model (Chronos 2) against XGBoost and ARIMA-GARCH on forecasting digital asset log returns. investigates whether a pretrained TSFM beats traditional and ML baselines |
 | [`derindidinedin.com`](https://derindidinedin.com) | personal website including a generative roman mosaic, formed through a rule based compositional grammar doing procedural generation over a constraint system, the way ancient workshops worked |
 
-<!-- GITHUB STATS — commented out for now; uncomment this whole block to re-enable. self-hosted instance + private counts are already wired up, so it will just work.
-
+<!-- GITHUB STATS — commented out for now
 ## ![](images/star.svg) github
 
 <div align="center">
